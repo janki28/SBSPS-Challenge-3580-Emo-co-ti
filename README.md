@@ -33,6 +33,10 @@ on lockdown extension
 4. Tweet Analyser: This is a feature where in a person can check the sentiment of his tweet before posting it. (Created with the help of Node Red and Tone Analyser)
 5. Jupyter Notebooks: All the preprocessing code has been provided in the notebook files and we have provided the csvs (Input and Output both) as well. The input csvs have helped us in fetching  the tweets while the output csvs have been helpful in Cognos Dashboard.
 
+#### Code and Explaination:
+Youtube :video_camera: : [Youtube](https://youtu.be/Rv6r3Ey-q9I) <br>
+Github :octocat: : [Github](https://github.com/SmartPracticeschool/SBSPS-Challenge-3580-Emo-co-ti)
+
 #### Authors
 * Janki Patel
 * Aneri Shah
