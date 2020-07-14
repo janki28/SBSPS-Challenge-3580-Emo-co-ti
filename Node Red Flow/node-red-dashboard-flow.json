@@ -1,0 +1,49 @@
+[
+    {
+        "id": "c81d2037.30387",
+        "type": "ui_gauge",
+        "z": "67a66c7e.a64aa4",
+        "name": "",
+        "group": "9cc6695b.1f0568",
+        "order": 1,
+        "width": 17,
+        "height": 7,
+        "gtype": "gage",
+        "title": "",
+        "label": "score",
+        "format": "{{msg.payload.sentiment.score}}",
+        "min": "-5",
+        "max": "5",
+        "colors": [
+            "#ef1a14",
+            "#e6e600",
+            "#3cf40d"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 690,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "9cc6695b.1f0568",
+        "type": "ui_group",
+        "z": "",
+        "name": "Analyze Your Tweet",
+        "tab": "e55332ef.7fd8f",
+        "order": 2,
+        "disp": false,
+        "width": "17",
+        "collapse": false
+    },
+    {
+        "id": "e55332ef.7fd8f",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Analyze Tweet",
+        "icon": "fa-tachometer",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    }
+]
