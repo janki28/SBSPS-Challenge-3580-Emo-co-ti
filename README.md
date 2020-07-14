@@ -5,11 +5,11 @@
 analytics model to understand the behavior of people if the lockdown is further extended. Also develop a dashboard with visualization of people reaction to the govt announcements 
 on lockdown extension
 
-> Solution: Using various IBM Cloud and IBM Watson services we hacve come up with a dash board that gives you the situation of corona on the world as well as India. After gathering the tweets on lockdown extension dates (fetching them from the tweet ids in the IEEE csv files) and pre-proccessing it we have used many techniques (visualizations, ML etc.) to get better unserstanding of the data and a UI that is interactive, insightfuland easy to use.
+> Solution: Using various IBM Cloud and IBM Watson services we have come up with a dash board that gives you the situation of corona in the world as well as in India. After gathering the tweets on lockdown extension dates (fetching them from the tweet ids in the IEEE csv files) and pre-proccessing them we have used many techniques (visualizations, ML etc.) to get better unserstanding of the data and have mad a UI that is interactive, insightful, easy to use for a layman.
 
 ### Prerequisites
 * To use any IBM Cloud service (Node Red, Tone Anaslyser etc.) an IBM Cloud account is necessary.
-* A Twitter developer account to fetch tweets (from id or a topic name)
+* A Twitter developer account to fetch tweets (from id or a topic name).
 
 ### Installing
 * Various Python Libraries and how t o install them
@@ -27,6 +27,13 @@ on lockdown extension
 #### The app contains the following features:
 
 1. Node Red: All our front end code has been designed by the IBM Cloud service Node Red.
+ [Node Red](https://node-red-emocoti.mybluemix.net/ui) (For viewing the UI). You can download the json file from the Node-Red folder and change in in your IBM Cloud acount.
 2. Cognos Dashboard: We have used the Cognos Dashboard service to plot interactive graphs of various tweets (live as well as stored).
 3. Tone Analyzer: We have used this service on cloud as well as in Juoyter notebooks to get the tone of the tweets.
 4. Tweet Analyser: This is a feature where in a person can check the sentiment of his tweet before posting it. (Created with the help of Node Red and Tone Analyser)
+5. Jupyter Notebooks: All the preprocessing code has been provided in the notebook files and we have provided the csvs (Input and Output both) as well. The input csvs have helped us in fetching  the tweets while the ouyput csvs have been helpful in Cognos Dashboard.
+
+#### Authors
+* Janki Patel
+* Aneri Shah
+* Sanjeev Khatwani
