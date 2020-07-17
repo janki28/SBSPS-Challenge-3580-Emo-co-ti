@@ -35,7 +35,9 @@ on lockdown extension
 
 #### Code and Explaination:
 Youtube :video_camera: : [Youtube](https://youtu.be/Rv6r3Ey-q9I) <br>
-Github :octocat: : [Github](https://github.com/SmartPracticeschool/SBSPS-Challenge-3580-Emo-co-ti)
+Github :octocat: : [Github](https://github.com/SmartPracticeschool/SBSPS-Challenge-3580-Emo-co-ti) <br>
+Dashboards: [Sentiment](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/439c9a3f-4722-4c55-a020-939c5c0d8568/view/5114aa06639e34fc49d7c4e407cb2d0f28632009b2bbd251d5837b490a637597f03d4792c82c1a5cda165130f6eb475fce) <br>
+[Situation as of 7 July 2020](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/49b74044-832d-406b-b4ea-7c8c22207b67/view/1d04f1081e9928e21fc5e2e407cb2d0f28632009b2bbd251d5837b490a637597f03d4792c82c1a5cda165130f6eb475fce)
 
 #### Authors
 * Janki Patel
